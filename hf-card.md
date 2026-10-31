@@ -78,7 +78,7 @@ Total deals tracked: **12**
 | 2026-06-11 | 89% Discount on 25K to 150K Option 1 Qualification Accounts | 89% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bulenox/bulenox-89-percent-discount-option-1/) |
 | 2026-03-02 | 89.00% Off Option 1 Evaluation Accounts ($25,000 - $150,000) | 89% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bulenox/bulenox-89-off-option-1-evaluations/) |
 | 2026-02-26 | 75% Discount on $25,000 to $250,000 Challenge Pricing | 75% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bulenox/bulenox-75-off-evaluation-accounts/) |
-| 2026-02-18 | Presidents Week Deal: Evaluations from $15.95 | Only $15.95 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bulenox/bulenox-presidents-week-promotion-25k-15-95/) |
+| 2026-02-18 | Presidents Week Deal: Evaluations from $15.95 | Only $15.95 | Ended | Presidents Day | [View Deal](https://propfirmdiscount.com/deals/bulenox/bulenox-presidents-week-promotion-25k-15-95/) |
 
 ### 2025 (1 deals)
 
