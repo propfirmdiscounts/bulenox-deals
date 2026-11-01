@@ -2,10 +2,6 @@
 
 As of 2026-10-07, Bulenox deals run up to 91% OFF with code PFD, which works any time — the newest is 91% Reduction On Option 1 Challenge Fees (25K-150K).
 
-> Funded Trader Testing Ecosystem. A platform for traders training. Trade Without Risk Your Own Capital
->
-> — Bulenox, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/bulenox.com)
-
 - Code: PFD
 - Discount: Up to 91% off (what the code takes off the firm's newest deal; it applies to every Bulenox deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
