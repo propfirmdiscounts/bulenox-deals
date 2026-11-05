@@ -10,7 +10,7 @@ As of 2026-10-07, Bulenox deals run up to 91% OFF with code PFD, which works any
 - Discount: Up to 91% off (what the code takes off the firm's newest deal; it applies to every Bulenox deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-07
-- Trustpilot: 4.7/5 (1827 reviews)
+- Trustpilot: 4.6/5 (1828 reviews)
 - Activate: https://propfirmdiscount.com/go/bulenox
 - Firm page: https://propfirmdiscount.com/prop-firm/bulenox/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
