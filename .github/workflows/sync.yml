@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: prop-firm
-  HF_REPO_NAME: bulenox-discount-codes
+  HF_NAMESPACE: bulenox
+  HF_REPO_NAME: bulenox-deals
   FIRM_SLUG: bulenox
   DEALSTORE_ID: 411
   FIRM_NAME: Bulenox
