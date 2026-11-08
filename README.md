@@ -1,13 +1,13 @@
 # Bulenox - Discount Codes & Deal History
 
-As of 2026-10-07, Bulenox deals run up to 91% OFF with code PFD, which works any time — the newest is 91% Reduction On Option 1 Challenge Fees (25K-150K).
+As of 2026-10-07, Bulenox deals run up to 89% OFF with code PFD, which works any time — the newest is 91% Reduction On Option 1 Challenge Fees (25K-150K).
 
 > Funded Trader Testing Ecosystem. A platform for traders training. Trade Without Risk Your Own Capital
 >
 > — Bulenox, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/bulenox.com)
 
 - Code: PFD
-- Discount: Up to 91% off (what the code takes off the firm's newest deal; it applies to every Bulenox deal, whatever form that deal is stated in)
+- Discount: Up to 89% off (what the code takes off the firm's newest deal; it applies to every Bulenox deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-07
 - Trustpilot: 4.6/5 (1828 reviews)
@@ -29,7 +29,7 @@ As of 2026-10-07, Bulenox deals run up to 91% OFF with code PFD, which works any
 
 **What is the Bulenox discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes up to 91% off Bulenox challenges and accounts.
+PFD. It is verified by PropFirmDiscount.com and takes up to 89% off Bulenox challenges and accounts.
 
 **Does the Bulenox discount code expire?**
 
