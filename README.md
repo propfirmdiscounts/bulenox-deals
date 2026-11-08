@@ -19,7 +19,7 @@ As of 2026-10-07, Bulenox deals run up to 91% OFF with code PFD, which works any
 ## Current Bulenox deal: 91% Reduction On Option 1 Challenge Fees (25K-150K)
 
 - Published: 2026-10-07
-- Offer ends: Limited time
+- Offer ends: Ended
 - Offer: 91% off
 - Scope: Option 1 Accounts, 25K To 150K
 - Code: PFD
@@ -37,7 +37,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Bulenox deal?**
 
-**91% Reduction On Option 1 Challenge Fees (25K-150K)** — published 2026-10-07. Offer ends: Limited time. The offer is 91% off.
+**91% Reduction On Option 1 Challenge Fees (25K-150K)** — published 2026-10-07. Offer ends: Ended. The offer is 91% off.
 
 ---
 
@@ -49,7 +49,7 @@ Total deals tracked: **12**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-10-07 | 91% Reduction On Option 1 Challenge Fees (25K-150K) | 91% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/bulenox/bulenox-91-off-option-1-qualification/) |
+| 2026-10-07 | 91% Reduction On Option 1 Challenge Fees (25K-150K) | 91% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bulenox/bulenox-91-off-option-1-qualification/) |
 | 2026-08-17 | 45% Off Fast Track and Momentum Challenge Cost | 45% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bulenox/bulenox-45-off-fast-track-momentum/) |
 | 2026-07-01 | 75% Off Independence Day Challenge Pricing | 75% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bulenox/bulenox-independence-day-75-off/) |
 | 2026-07-01 | July 4th Promotion: Fixed Challenge Fees Starting at $15.95 | Only $23.65 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bulenox/bulenox-july-4th-fixed-price-event/) |
