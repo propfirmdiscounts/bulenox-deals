@@ -10,11 +10,12 @@ As of 2026-11, Bulenox deals run 89% OFF with code PFD, which works any time —
 - Discount: 89% off (what the code takes off the firm's newest deal; it applies to every Bulenox deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-07
-- Trustpilot: 4.6/5 (1836 reviews)
-- Activate: https://propfirmdiscount.com/go/bulenox
-- Firm page: https://propfirmdiscount.com/prop-firm/bulenox/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
+- Trustpilot: [4.6/5 (1836 reviews)](https://www.trustpilot.com/review/bulenox.com)
+- GitHub repository: [https://github.com/propfirmdiscounts/bulenox-deals](https://github.com/propfirmdiscounts/bulenox-deals)
+- Activate: [https://propfirmdiscount.com/go/bulenox](https://propfirmdiscount.com/go/bulenox)
+- Firm page: [https://propfirmdiscount.com/prop-firm/bulenox/](https://propfirmdiscount.com/prop-firm/bulenox/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Bulenox deal: 91% Reduction On Option 1 Challenge Fees (25K-150K) with code PFD
 
@@ -23,7 +24,7 @@ As of 2026-11, Bulenox deals run 89% OFF with code PFD, which works any time —
 - Offer: 91% off
 - Scope: Option 1 Accounts, 25K To 150K
 - Code: PFD
-- Deal page: https://propfirmdiscount.com/deals/bulenox/bulenox-91-off-option-1-qualification/
+- Deal page: [https://propfirmdiscount.com/deals/bulenox/bulenox-91-off-option-1-qualification/](https://propfirmdiscount.com/deals/bulenox/bulenox-91-off-option-1-qualification/)
 
 ## Bulenox discount code FAQ
 
@@ -73,9 +74,9 @@ Total deals tracked: **12**
 
 This repository mirrors every deal **Bulenox** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: https://propfirmdiscount.com
-- Prop firm profile: https://propfirmdiscount.com/prop-firm/bulenox/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [https://propfirmdiscount.com/prop-firm/bulenox/](https://propfirmdiscount.com/prop-firm/bulenox/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/bulenox-deals.json`
 
