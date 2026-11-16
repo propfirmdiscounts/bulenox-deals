@@ -1,6 +1,6 @@
 # Bulenox - Discount Codes & Deal History
 
-As of November 2026, the verified Bulenox discount code is PFD — 91% OFF, which can be applied on the checkout page anytime. The newest is "91% Reduction On Option 1 Challenge Fees (25K-150K) with code PFD".
+As of November 2026, the verified Bulenox discount code is PFD — 89% OFF, which can be applied on the checkout page anytime. The newest is "91% Reduction On Option 1 Challenge Fees (25K-150K) with code PFD".
 
 > Funded Trader Testing Ecosystem. A platform for traders training. Trade Without Risk Your Own Capital
 >
