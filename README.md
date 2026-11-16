@@ -1,6 +1,6 @@
 # Bulenox - Discount Codes & Deal History
 
-As of November 2026, Bulenox deals offer 89% OFF with code PFD, which can be applied on the checkout page anytime.
+As of November 2026, the verified Bulenox discount code is PFD — 91% OFF, which can be applied on the checkout page anytime. The newest is "91% Reduction On Option 1 Challenge Fees (25K-150K) with code PFD".
 
 > Funded Trader Testing Ecosystem. A platform for traders training. Trade Without Risk Your Own Capital
 >
@@ -11,11 +11,11 @@ As of November 2026, Bulenox deals offer 89% OFF with code PFD, which can be app
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-07
 - Trustpilot: [4.6/5 (1836 reviews)](https://www.trustpilot.com/review/bulenox.com)
-- GitHub repository: [https://github.com/propfirmdiscounts/bulenox-deals](https://github.com/propfirmdiscounts/bulenox-deals)
-- Activate: [https://propfirmdiscount.com/go/bulenox](https://propfirmdiscount.com/go/bulenox)
-- Firm page: [https://propfirmdiscount.com/prop-firm/bulenox/](https://propfirmdiscount.com/prop-firm/bulenox/)
-- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
+- GitHub repository: [Bulenox Deals Repository](https://github.com/propfirmdiscounts/bulenox-deals)
+- Activate: [Activate Bulenox Discount Code](https://propfirmdiscount.com/go/bulenox)
+- Firm page: [Bulenox Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/bulenox/)
+- Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [Bulenox API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Bulenox deal: 91% Reduction On Option 1 Challenge Fees (25K-150K) with code PFD
 
@@ -24,7 +24,7 @@ As of November 2026, Bulenox deals offer 89% OFF with code PFD, which can be app
 - Offer: 91% off
 - Scope: Option 1 Accounts, 25K To 150K
 - Code: PFD
-- Deal page: [https://propfirmdiscount.com/deals/bulenox/bulenox-91-off-option-1-qualification/](https://propfirmdiscount.com/deals/bulenox/bulenox-91-off-option-1-qualification/)
+- Deal page: [Bulenox Deal Page](https://propfirmdiscount.com/deals/bulenox/bulenox-91-off-option-1-qualification/)
 
 ## Bulenox discount code FAQ
 
@@ -74,9 +74,9 @@ Total deals tracked: **12**
 
 This repository mirrors every deal **Bulenox** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
-- Prop firm profile: [https://propfirmdiscount.com/prop-firm/bulenox/](https://propfirmdiscount.com/prop-firm/bulenox/)
-- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [Bulenox Profile](https://propfirmdiscount.com/prop-firm/bulenox/)
+- All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/bulenox-deals.json`
 
@@ -119,4 +119,4 @@ file is the `Last deal published` value above.
 
 ## License
 
-Data © PropFirmDiscount. Codes may be referenced with attribution and a link to https://propfirmdiscount.com.
+Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
