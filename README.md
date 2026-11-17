@@ -1,4 +1,4 @@
-# Bulenox Discount Code & Deal History
+# Bulenox Discount Code, Deals History & Dataset
 
 As of November 2026, the verified Bulenox discount code is PFD — 89% OFF, which can be applied on the checkout page anytime. The newest is "91% Reduction On Option 1 Challenge Fees (25K-150K) with code PFD".
 
@@ -11,7 +11,7 @@ As of November 2026, the verified Bulenox discount code is PFD — 89% OFF, whic
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-10-07
 - Trustpilot: [4.6/5 (1837 reviews)](https://www.trustpilot.com/review/bulenox.com)
-- GitHub repository: [Bulenox Deals Repository](https://github.com/propfirmdiscounts/bulenox-deals)
+- GitHub repository: [Bulenox Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/bulenox-deals)
 - Activate: [Activate Bulenox Discount Code](https://propfirmdiscount.com/go/bulenox)
 - Firm page: [Bulenox Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/bulenox/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -26,7 +26,7 @@ As of November 2026, the verified Bulenox discount code is PFD — 89% OFF, whic
 - Code: PFD
 - Deal page: [Bulenox Deal Page](https://propfirmdiscount.com/deals/bulenox/bulenox-91-off-option-1-qualification/)
 
-## Bulenox Discount Code & Deals FAQ
+## Bulenox Discount Code & Deals History FAQ
 
 **What is the Bulenox discount code?**
 
@@ -42,7 +42,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Bulenox Deal History
+## Bulenox Deals History
 
 Total deals tracked: **12**
 
@@ -70,7 +70,7 @@ Total deals tracked: **12**
 
 ---
 
-## About the Bulenox Deals Dataset
+## About the Bulenox Discount Code & Deals History Dataset
 
 This repository mirrors every deal **Bulenox** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -78,7 +78,7 @@ This repository mirrors every deal **Bulenox** has published on PropFirmDiscount
 - Prop firm profile: [Bulenox Profile](https://propfirmdiscount.com/prop-firm/bulenox/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Bulenox Deal Dataset: Field Definitions
+## Bulenox Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the

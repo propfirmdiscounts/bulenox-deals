@@ -1,4 +1,4 @@
-# Bulenox Discount Codes
+# Bulenox Discount Code & Deals History
 
 This dataset tracks historical deal observations for Bulenox from PropFirmDiscount.com.
 
