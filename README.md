@@ -1,6 +1,6 @@
 # Bulenox Discount Code, Deals History & Dataset
 
-As of November 2026, the verified Bulenox discount code is PFD — 89% OFF, which can be applied on the checkout page anytime. The newest is "91% Reduction On Option 1 Challenge Fees (25K-150K) with code PFD".
+As of November 2026, the verified Bulenox discount code is PFD — 89% OFF, which can be applied on the checkout page anytime. The newest is "91% Reduction On Option 1 Challenge Fees (25K-150K) (code PFD)".
 
 > Funded Trader Testing Ecosystem. A platform for traders training. Trade Without Risk Your Own Capital
 >
@@ -17,7 +17,7 @@ As of November 2026, the verified Bulenox discount code is PFD — 89% OFF, whic
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [Bulenox API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Latest Bulenox deal: 91% Reduction On Option 1 Challenge Fees (25K-150K) with code PFD
+## Latest Bulenox deal: 91% Reduction On Option 1 Challenge Fees (25K-150K) (code PFD)
 
 - Published: 2026-10-07
 - Offer ends: Ended
@@ -38,7 +38,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Bulenox deal?**
 
-**91% Reduction On Option 1 Challenge Fees (25K-150K) with code PFD** — published 2026-10-07. Offer ends: Ended. The offer is 91% off.
+**91% Reduction On Option 1 Challenge Fees (25K-150K) (code PFD)** — published 2026-10-07. Offer ends: Ended. The offer is 91% off.
 
 ---
 
@@ -50,23 +50,23 @@ Total deals tracked: **12**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-10-07 | Bulenox: 91% Reduction On Option 1 Challenge Fees (25K-150K) with code PFD | 91% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bulenox/bulenox-91-off-option-1-qualification/) |
-| 2026-08-17 | Bulenox: 45% Off Fast Track and Momentum Challenge Cost with code PFD | 45% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bulenox/bulenox-45-off-fast-track-momentum/) |
-| 2026-07-01 | Bulenox: 75% Off Independence Day Challenge Pricing with code PFD | 75% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bulenox/bulenox-independence-day-75-off/) |
-| 2026-07-01 | Bulenox: July 4th Promotion: Fixed Challenge Fees Starting at $15.95 with code PFD | Only $23.65 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bulenox/bulenox-july-4th-fixed-price-event/) |
-| 2026-06-23 | Bulenox: 45% Off All Evaluation Accounts (Option 1 and 2) with code PFD | 45% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bulenox/bulenox-45-off-all-accounts/) |
-| 2026-06-22 | Bulenox: 80% Discount on Trading Challenges From $15.95 to $35.75 with code PFD | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bulenox/bulenox-80-percent-discount-15-to-35-evaluations/) |
-| 2026-06-11 | Bulenox: 75% Discount on 25K to 150K Option 2 Qualification Accounts with code PFD | 75% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bulenox/bulenox-75-percent-discount-option-2/) |
-| 2026-06-11 | Bulenox: 89% Discount on 25K to 150K Option 1 Qualification Accounts with code PFD | 89% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bulenox/bulenox-89-percent-discount-option-1/) |
-| 2026-03-02 | Bulenox: 89.00% Off Option 1 Evaluation Accounts ($25,000 - $150,000) with code PFD | 89% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bulenox/bulenox-89-off-option-1-evaluations/) |
-| 2026-02-26 | Bulenox: 75% Discount on $25,000 to $250,000 Challenge Pricing with code PFD | 75% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bulenox/bulenox-75-off-evaluation-accounts/) |
-| 2026-02-18 | Bulenox: Presidents Week Deal: Evaluations from $15.95 with code PFD | Only $15.95 | Ended | Presidents Day | [View Deal](https://propfirmdiscount.com/deals/bulenox/bulenox-presidents-week-promotion-25k-15-95/) |
+| 2026-10-07 | Bulenox: 91% Reduction On Option 1 Challenge Fees (25K-150K) (code PFD) | 91% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bulenox/bulenox-91-off-option-1-qualification/) |
+| 2026-08-17 | Bulenox: 45% Off Fast Track and Momentum Challenge Cost (code PFD) | 45% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bulenox/bulenox-45-off-fast-track-momentum/) |
+| 2026-07-01 | Bulenox: 75% Off Independence Day Challenge Pricing (code PFD) | 75% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bulenox/bulenox-independence-day-75-off/) |
+| 2026-07-01 | Bulenox: July 4th Promotion: Fixed Challenge Fees Starting at $15.95 (code PFD) | Only $23.65 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bulenox/bulenox-july-4th-fixed-price-event/) |
+| 2026-06-23 | Bulenox: 45% Off All Evaluation Accounts (Option 1 and 2) (code PFD) | 45% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bulenox/bulenox-45-off-all-accounts/) |
+| 2026-06-22 | Bulenox: 80% Discount on Trading Challenges From $15.95 to $35.75 (code PFD) | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bulenox/bulenox-80-percent-discount-15-to-35-evaluations/) |
+| 2026-06-11 | Bulenox: 75% Discount on 25K to 150K Option 2 Qualification Accounts (code PFD) | 75% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bulenox/bulenox-75-percent-discount-option-2/) |
+| 2026-06-11 | Bulenox: 89% Discount on 25K to 150K Option 1 Qualification Accounts (code PFD) | 89% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bulenox/bulenox-89-percent-discount-option-1/) |
+| 2026-03-02 | Bulenox: 89.00% Off Option 1 Evaluation Accounts ($25,000 - $150,000) (code PFD) | 89% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bulenox/bulenox-89-off-option-1-evaluations/) |
+| 2026-02-26 | Bulenox: 75% Discount on $25,000 to $250,000 Challenge Pricing (code PFD) | 75% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bulenox/bulenox-75-off-evaluation-accounts/) |
+| 2026-02-18 | Bulenox: Presidents Week Deal: Evaluations from $15.95 (code PFD) | Only $15.95 | Ended | Presidents Day | [View Deal](https://propfirmdiscount.com/deals/bulenox/bulenox-presidents-week-promotion-25k-15-95/) |
 
 ### 2025 (1 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2025-05-01 | Bulenox: 45% Price Reduction on 25K to 250K Evaluations with code PFD | 45% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bulenox/45-percent-off-option-1-and-option-2-evaluations/) |
+| 2025-05-01 | Bulenox: 45% Price Reduction on 25K to 250K Evaluations (code PFD) | 45% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/bulenox/45-percent-off-option-1-and-option-2-evaluations/) |
 
 ---
 
